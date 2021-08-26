@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "io.h": "c",
+        "delay.h": "c",
+        "eeprom.h": "c"
+    }
+}
